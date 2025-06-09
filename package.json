@@ -1,0 +1,15 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "a node package",
+  "keywords": [
+    "nodejs"
+  ],
+  "license": "MIT",
+  "author": "EDCA0 <eric.cavanzo@outlook.com>",
+  "type": "commonjs",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
