@@ -11,7 +11,7 @@
   "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx ts-node main.ts"
+    "start": "npx ts-node main.ts"  
   },
   "dependencies": {
     "isnumber": "^1.0.0"
